@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+// background: linear-gradient(180deg, rgba(47, 30, 35, 0.06) 14.69%, #0B1435 100%);
+
+.main-container {
+    // background: linear-gradient(180deg, rgba(47, 30, 35, 0.06) 14.69%, #0B1435 100%);
+    // background: linear-gradient(180deg, #2B2B2B 62.23%, rgba(44, 44, 44, 0.45) 100%);
+    // background-color: #232323;
+    background-color: black;
+    // background-color: #2B2B2B;
+    // background: linear-gradient(180deg, #FFFFFF 0%, #2B2B2B 20.64%, #000000 64.05%, #010101 100%);
+    min-width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
